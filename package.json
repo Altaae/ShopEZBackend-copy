@@ -20,7 +20,7 @@
     "crypto": "^1.0.1",
     "express": "^4.21.1",
     "nodemailer": "^6.9.16"
-    "express-validator": "^7.0.1"  // this for input validation
+    "express-validator": "^7.0.1"  
   }
 }
      
